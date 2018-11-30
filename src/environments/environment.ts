@@ -6,6 +6,6 @@
 export const environment = {
   production: false,
   API_BASE_URL: 'http://dev.3cns.com/api/v1/',
-  SOCKET_URL: 'http://localhost:3000'
+  SOCKET_URL: 'http://dev.3cns.com:3000'
 };
 
